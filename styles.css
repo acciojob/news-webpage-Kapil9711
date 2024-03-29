@@ -7,11 +7,9 @@ body{
 	color:white;
 	padding:8px ;
 	border:solid;
-	
-}
-.header h1{
 	text-align:center;
 }
+
 main{
 	display:flex;
 	margin-top:32px;
@@ -20,7 +18,7 @@ main{
 	flex-wrap:wrap;
 	
 }
-section{
+div{
 	text-align:center;
 	background:white;
 	border-radius:16px;
